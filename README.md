@@ -48,6 +48,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Test Upload via Java on Thu Aug 06 17:46:53 IST 2020](https://www.youtube.com/watch?v=MTOTGi3zpcQ)
 <!-- YOUTUBE:END -->
 
 ---
